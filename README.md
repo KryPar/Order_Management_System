@@ -1,6 +1,6 @@
 # Order Management System
 
-This is a simple Order Management System built using Python and PostgreSQL. The application allows you to manage customers, products, and orders by creating and reading records. It demonstrates how to interact with a PostgreSQL database using Python and perform basic database operations (Create and Read).
+This is an Order Management System built using Python and PostgreSQL. The application allows you to manage customers, products, and orders by creating and reading records. It demonstrates how to interact with a PostgreSQL database using Python and perform basic database operations (Create and Read).
 
 ## Features
 
