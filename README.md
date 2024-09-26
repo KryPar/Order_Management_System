@@ -20,3 +20,22 @@ This is an Order Management System built using Python and PostgreSQL. The applic
 
 
 
+# Systém pro správu objednávek
+
+Toto je **Systém pro správu objednávek** vytvořený pomocí **Pythonu** a **PostgreSQL**. Aplikace vám umožňuje spravovat zákazníky, produkty a objednávky tím, že vytváříte a čtete záznamy. Ukazuje, jak pracovat s databází PostgreSQL pomocí Pythonu a provádět základní databázové operace (vytváření a čtení záznamů).
+
+## Funkce
+
+### Správa zákazníků:
+- Přidávání nových zákazníků (jméno, příjmení a kontaktní informace).
+- Zobrazení seznamu všech registrovaných zákazníků.
+
+### Správa produktů:
+- Přidávání nových produktů (název, cena).
+- Zobrazení seznamu dostupných produktů.
+
+### Správa objednávek:
+- Vytváření nových objednávek výběrem zákazníka a přidáváním produktů.
+- Přidání více produktů s určenými množstvími do objednávky.
+- Výpočet celkové ceny objednávky na základě vybraných produktů.
+- Zobrazení seznamu všech objednávek s podrobnými informacemi o jednotlivých položkách objednávek.
